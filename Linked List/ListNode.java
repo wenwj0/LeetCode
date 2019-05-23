@@ -1,4 +1,4 @@
-package leetcodeTest;
+
 
 public class ListNode {
 	int val;
