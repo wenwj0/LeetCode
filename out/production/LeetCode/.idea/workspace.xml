@@ -2,69 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c839175-7f86-4545-8d9c-533749ef68c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/P500键盘行/P500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/011盛水最多的容器/P11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/015三数之和/P15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/016最接近的三数之和/P16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/018四数之和/P18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/026删除排序数组中的重复项/P26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/026删除排序数组中的重复项/P26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/027移除元素/P27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/027移除元素/P27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/033搜索旋转排列数组/P33.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/034在排序数组中查找元素的第一个和最后一个位置/P34.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/035搜索插入位置/P35.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/053最大子序和/P53.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/056合拼区间/P56.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/066加一/P66.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/069x的平方根/P69.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/074在二维数组中搜索n/P74.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/080删除排序数组中的重复项Ⅱ/P80.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/081搜索旋转排序数组Ⅱ/P81.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/088合拼两个有序数组/P88(2).java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/088合拼两个有序数组/P88.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/153寻找旋转排序数组中的最小值/P153.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/154寻找旋转排序数组中的最小值Ⅱ/P154.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/240在二维数组中搜索n升级版/P240.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/287寻找重复的数字/P287.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/378有序矩阵中第K小的元素/P378.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/442数组中的重复数据/P442.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/832翻转图像/P832.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/905按奇偶排列数组/P905.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bit Manipulation/461汉明距离/P461.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bit Manipulation/476数字的补数/P476.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/019删除链表的倒数第N个节点/P19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/021合并两个有序链表/P21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/061旋转链表/P61.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/092反转链表Ⅱ/P92.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/141环形链表/P141.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/160相交链表/P160.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/203移除链表的元素/P203.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/206反转链表/P206.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/234回文链表/P234.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/237删除链表中的节点/P237.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linked List/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linked List/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/058最后一个单词的长度/P58.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/067二进制求和/P67.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/125验证回文串/P125.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/151反转字符串里的单词/P151.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/387字符串中的第一个唯一字符/P387.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/557反转字符串中的单词 III/P557.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/657机器人能否返回原点/P657.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/709转换成小写字母/P709.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/890查找和替换模式/P890.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/101对称二叉树/P101.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/102二叉树的层次遍历/P102.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/103二叉树的锯齿形层次遍历/P103.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/104二叉树的最大深度/P104.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/104二叉树的最大深度/P104BFs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/104二叉树的最大深度/P104DFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/105从前序和中序遍历序列构造二叉树/P105.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/106从中序与后序遍历序列构造二叉树/P106.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/107二叉树的层次遍历Ⅱ/P107.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/226翻转二叉树/P226.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/P559.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/P101对称二叉树/P101.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/P101对称二叉树/P101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/P102二叉树的层次遍历/P102.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/P102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/P103二叉树的锯齿形层次遍历/P103.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/P103.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/P104二叉树的最大深度/P104.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/P104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/P104二叉树的最大深度/P104BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/P104BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/P104二叉树的最大深度/P104DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/P104DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/P105从前序和中序遍历序列构造二叉树/P105.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/P105.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/P106从中序与后序遍历序列构造二叉树/P106.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/P106.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/P107二叉树的层次遍历Ⅱ/P107.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/P107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/P226翻转二叉树/P226.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/P226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P104.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P104BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P104DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P105.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P106.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P107.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/P226.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/leetcode/P101.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,11 +43,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HashTable/P500键盘行/P500.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tree/P559.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="444">
+              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/P226.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/P107.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/P106.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/P105.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/P103.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,14 +100,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tree/P103二叉树的锯齿形层次遍历/P103.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/P104.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/P104BFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/P104DFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -109,6 +138,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Tree/P101对称二叉树</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -123,19 +160,32 @@
         <option value="$PROJECT_DIR$/Array/Interval.java" />
         <option value="$PROJECT_DIR$/Linked List/P021合并两个有序链表/P21.java" />
         <option value="$PROJECT_DIR$/Linked List/ListNode.java" />
-        <option value="$PROJECT_DIR$/Tree/P102二叉树的层次遍历/P102.java" />
-        <option value="$PROJECT_DIR$/Tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/Tree/P103二叉树的锯齿形层次遍历/P103.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/LeetCode.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/Tree/P107二叉树的层次遍历Ⅱ/P107.java" />
+        <option value="$PROJECT_DIR$/Tree/P106从中序与后序遍历序列构造二叉树/P106.java" />
+        <option value="$PROJECT_DIR$/Tree/P105从前序和中序遍历序列构造二叉树/P105.java" />
+        <option value="$PROJECT_DIR$/Tree/P104二叉树的最大深度/P104DFS.java" />
+        <option value="$PROJECT_DIR$/Tree/P104二叉树的最大深度/P104BFs.java" />
+        <option value="$PROJECT_DIR$/Linked List/P092反转链表Ⅱ/P92.java" />
+        <option value="$PROJECT_DIR$/Linked List/P234回文链表/P234.java" />
+        <option value="$PROJECT_DIR$/Linked List/P019删除链表的倒数第N个节点/P19.java" />
+        <option value="$PROJECT_DIR$/Linked List/P061旋转链表/P61.java" />
+        <option value="$PROJECT_DIR$/Linked List/P141环形链表/P141.java" />
+        <option value="$PROJECT_DIR$/Linked List/P160相交链表/P160.java" />
+        <option value="$PROJECT_DIR$/Linked List/P203移除链表的元素/P203.java" />
+        <option value="$PROJECT_DIR$/Linked List/P206反转链表/P206.java" />
+        <option value="$PROJECT_DIR$/Linked List/P237删除链表中的节点/P237.java" />
+        <option value="$PROJECT_DIR$/Tree/P559N叉树的最大深度/P559.java" />
+        <option value="$PROJECT_DIR$/Tree/P101对称二叉树/P101.java" />
+        <option value="$PROJECT_DIR$/Tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/Tree/P102二叉树的层次遍历/P102.java" />
+        <option value="$PROJECT_DIR$/Tree/P102.java" />
+        <option value="$PROJECT_DIR$/Tree/Node.java" />
+        <option value="$PROJECT_DIR$/Tree/P104二叉树的最大深度/P104.java" />
+        <option value="$PROJECT_DIR$/Tree/P104.java" />
+        <option value="$PROJECT_DIR$/Tree/P226翻转二叉树/P226.java" />
+        <option value="$PROJECT_DIR$/Tree/P226.java" />
+        <option value="$PROJECT_DIR$/Tree/P559.java" />
       </list>
     </option>
   </component>
@@ -162,18 +212,6 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="P103二叉树的锯齿形层次遍历" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="P104二叉树的最大深度" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -182,15 +220,23 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Tree" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.P559">
     <configuration name="P500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashTable.P500键盘行.P500" />
       <module name="LeetCode" />
@@ -218,8 +264,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P559" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.P559" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P559" />
         <item itemvalue="Application.P500" />
       </list>
     </recent_temporary>
@@ -235,28 +289,28 @@
       <option name="presentableId" value="Default" />
       <updated>1558609597195</updated>
       <workItem from="1558609598507" duration="502000" />
-      <workItem from="1558615459963" duration="1509000" />
+      <workItem from="1558615459963" duration="4241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2011000" />
+    <option name="totallyTimeSpent" value="4743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1002" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Messages" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -319,16 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/P104二叉树的最大深度/P104BFs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked List/ListNode.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -339,10 +383,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/P092反转链表Ⅱ/P92.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/P019删除链表的倒数第N个节点/P19.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/P061旋转链表/P61.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/P141环形链表/P141.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/P160相交链表/P160.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/P203移除链表的元素/P203.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/P206反转链表/P206.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/P237删除链表中的节点/P237.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/P234回文链表/P234.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTable/P500键盘行/P500.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/P101对称二叉树/P101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/P011盛水最多的容器/P11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#95#96#0" expanded="true" />
             <element signature="e#118#119#0" expanded="true" />
@@ -350,26 +453,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/P102二叉树的层次遍历/P102.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HashTable/P500键盘行/P500.java">
+    <entry file="file://$PROJECT_DIR$/Tree/P102.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="373">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/P103二叉树的锯齿形层次遍历/P103.java">
+    <entry file="file://$PROJECT_DIR$/Tree/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="76">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/P104.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/P104BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/P104DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/P226.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/P107.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/P106.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/P105.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/P103.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/P559.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -430,6 +596,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

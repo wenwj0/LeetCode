@@ -1,3 +1,4 @@
+package Tree;
 
 public class P106 {
 	public TreeNode buildTree(int[] inorder, int[] postorder) {
