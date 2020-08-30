@@ -1,4 +1,4 @@
-package java.byOrder;
+package bitManipulation;
 
 public class S190_ReverseBits {
     public int reverseBits(int n) {
@@ -8,11 +8,5 @@ public class S190_ReverseBits {
             n>>=1;
         }
         return res;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new S190_ReverseBits().reverseBits(43261596));
-//        int a = 00010;
-//        System.out.println(a);
     }
 }

@@ -1,4 +1,4 @@
-package java.byOrder;
+package bitManipulation;
 
 public class S136_SingleNumber {
     public int singleNumber(int[] nums){

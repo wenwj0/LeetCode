@@ -1,4 +1,4 @@
-package java.bitManipulation.P476数字的补数;
+package bitManipulation;
 
 public class P476 {
 	public int findComplement(int num) {

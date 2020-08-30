@@ -1,4 +1,4 @@
-package java.byOrder;
+package bitManipulation;
 
 public class S191_NumberOfOneBits {
     public int hammingWeight(int n) {

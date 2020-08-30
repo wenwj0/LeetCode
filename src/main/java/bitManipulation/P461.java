@@ -1,4 +1,4 @@
-package java.bitManipulation.P461汉明距离;
+package bitManipulation;
 
 public class P461 {
 	public int hammingDistance(int x,int y) {
