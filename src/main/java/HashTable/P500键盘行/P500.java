@@ -1,4 +1,4 @@
-package java.HashTable.P500键盘行;
+package HashTable.P500键盘行;
 
 import java.util.LinkedList;
 import java.util.List;

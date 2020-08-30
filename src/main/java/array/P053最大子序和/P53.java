@@ -1,5 +1,7 @@
 package java.array.P053最大子序和;
 
+import array.Interval;
+
 public class P53 {
 	public int maxSubArray(int[] nums) {
 		int len = nums.length;
@@ -15,8 +17,7 @@ public class P53 {
 				maxn = temp;
 			}
 		}
-		
-		
+
 		return maxn; 
 	}
 }

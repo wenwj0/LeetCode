@@ -1,7 +1,9 @@
-package java.linkedList.P092反转链表Ⅱ;
+package linkedList.P092反转链表Ⅱ;
+
+import linkedList.ListNode;
 
 public class P92 {
-	public ListNode reverseBetween(ListNode head,int m,int n) {
+	public ListNode reverseBetween(ListNode head, int m, int n) {
 		ListNode head0 = new ListNode(0);
 		ListNode pre = head0;
 		pre.next = head;

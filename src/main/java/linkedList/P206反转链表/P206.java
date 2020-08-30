@@ -1,4 +1,6 @@
-package java.linkedList.P206反转链表;
+package linkedList.P206反转链表;
+
+import linkedList.ListNode;
 
 public class P206 {
 	public ListNode reverseList(ListNode head) {

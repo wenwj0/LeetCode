@@ -1,13 +1,7 @@
-package java.linkedList.P021合并两个有序链表;
+package linkedList.P021合并两个有序链表;
 
-/**
- * Definition for singly-linked list.
- * public class java.ListNode {
- *     int val;
- *     java.ListNode next;
- *     java.ListNode(int x) { val = x; }
- * }
- */
+import linkedList.ListNode;
+
 class P21 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 		if(l1==null && l2==null)

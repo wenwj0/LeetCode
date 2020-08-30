@@ -1,4 +1,4 @@
-package java.tree;
+package tree;
 
 public class P104 {
 	

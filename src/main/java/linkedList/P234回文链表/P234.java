@@ -1,4 +1,6 @@
-package java.linkedList.P234回文链表;
+package linkedList.P234回文链表;
+
+import linkedList.ListNode;
 
 public class P234 {
 	public boolean isPalindrome(ListNode head) {

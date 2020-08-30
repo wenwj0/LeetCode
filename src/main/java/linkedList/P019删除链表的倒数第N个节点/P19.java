@@ -1,5 +1,7 @@
 package linkedList.P019删除链表的倒数第N个节点;
-import java.ListNode;
+
+
+import linkedList.ListNode;
 
 public class P19 {
 	public ListNode removeNthFromEnd(ListNode head, int n) {

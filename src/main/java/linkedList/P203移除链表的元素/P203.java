@@ -1,7 +1,10 @@
-package java.linkedList.P203移除链表的元素;
+package linkedList.P203移除链表的元素;
+
+
+import linkedList.ListNode;
 
 public class P203 {
-	public ListNode removeElements(ListNode head,int val) {
+	public ListNode removeElements(ListNode head, int val) {
 		if(head==null)
 			return head;
 		if(head.next==null) {

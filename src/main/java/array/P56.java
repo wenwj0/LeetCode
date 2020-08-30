@@ -1,6 +1,4 @@
-package java.array.P056合拼区间;
-
-import java.array.Interval;
+package array;
 
 import java.util.Collections;
 import java.util.Comparator;

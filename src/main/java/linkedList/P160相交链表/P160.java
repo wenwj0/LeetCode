@@ -1,7 +1,9 @@
-package java.linkedList.P160相交链表;
+package linkedList.P160相交链表;
+
+import linkedList.ListNode;
 
 public class P160 {
-	public ListNode getIntersectionNode(ListNode headA,ListNode headB) {
+	public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 		ListNode p1 = headA,p2 = headB;
 		int cnt1 = 0,cnt2 = 0;
 		while(p1!=null) {

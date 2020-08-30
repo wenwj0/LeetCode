@@ -1,4 +1,6 @@
-package java.linkedList.P237删除链表中的节点;
+package linkedList.P237删除链表中的节点;
+
+import linkedList.ListNode;
 
 public class P237 {
 	public void deleteNode(ListNode node) {

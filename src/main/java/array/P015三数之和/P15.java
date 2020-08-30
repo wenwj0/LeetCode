@@ -1,4 +1,4 @@
-package java.array.P015三数之和;
+package array.P015三数之和;
 
 import java.util.Arrays;
 import java.util.LinkedList;

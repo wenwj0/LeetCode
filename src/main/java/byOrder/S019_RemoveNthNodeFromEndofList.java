@@ -1,7 +1,8 @@
 package byOrder;
 
 
-import java.ListNode;
+import linkedList.ListNode;
+
 
 public class S019_RemoveNthNodeFromEndofList {
     public ListNode removeNthFromEnd(ListNode head, int n) {

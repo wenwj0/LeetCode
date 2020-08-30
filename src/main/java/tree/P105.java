@@ -1,11 +1,11 @@
-package java.tree;
+package tree;
 
 public class P105 {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
     	TreeNode root = subTree(preorder, 0, inorder, 0, inorder.length-1);
     	return root;
     }
-    private TreeNode subTree(int []preorder,int pleft,int[] inorder,int inleft,int inright){
+    private TreeNode subTree(int []preorder, int pleft, int[] inorder, int inleft, int inright){
     	if(inleft>inright||pleft>preorder.length-1)
     		return null;
     	TreeNode root = new TreeNode(preorder[pleft]);

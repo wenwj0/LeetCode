@@ -1,4 +1,6 @@
-package java.linkedList.P141环形链表;
+package linkedList.P141环形链表;
+
+import linkedList.ListNode;
 
 public class P141 {
 	public boolean hasCycle(ListNode head) {

@@ -1,4 +1,6 @@
-package java.byOrder;
+package byOrder;
+
+import linkedList.ListNode;
 
 public class S024_SwapNodesInPairs {
     public ListNode swapPairs(ListNode head) {

@@ -1,4 +1,6 @@
-package java.byOrder;
+package byOrder;
+
+import linkedList.ListNode;
 
 public class S021_MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

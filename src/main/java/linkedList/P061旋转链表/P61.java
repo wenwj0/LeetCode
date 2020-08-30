@@ -1,4 +1,6 @@
-package java.linkedList.P061旋转链表;
+package linkedList.P061旋转链表;
+
+import linkedList.ListNode;
 
 public class P61 {
 public ListNode rotateRight(ListNode head, int k) {

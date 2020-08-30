@@ -1,4 +1,6 @@
-package java.byOrder;
+package byOrder;
+
+import linkedList.ListNode;
 
 public class S002_AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2){
