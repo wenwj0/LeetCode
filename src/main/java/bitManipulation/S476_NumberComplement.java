@@ -1,4 +1,4 @@
-package java.byOrder;
+package bitManipulation;
 
 public class S476_NumberComplement {
     public int findComplement(int num) {

@@ -1,4 +1,4 @@
-package java.byOrder;
+package bitManipulation;
 
 public class S461_HammingDistance {
     public int hammingDistance(int x, int y) {

@@ -1,4 +1,4 @@
-package java.byOrder;
+package bitManipulation;
 
 public class S342_PowerOfFour {
     public boolean isPowerOfFour(int num) {

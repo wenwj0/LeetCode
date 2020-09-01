@@ -1,4 +1,4 @@
-package java.byOrder;
+package bitManipulation;
 
 public class S405_ConvertANumberToHexadecimal {
     public String toHex(int num) {
