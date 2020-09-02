@@ -1,4 +1,4 @@
-package java.byOrder;
+package dynamicProgramming;
 
 public class S005_LongestPalindromicSubstring {
     /**

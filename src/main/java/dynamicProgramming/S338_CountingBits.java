@@ -1,4 +1,4 @@
-package bitManipulation;
+package dynamicProgramming;
 
 public class S338_CountingBits {
     public int[] countBits(int num){

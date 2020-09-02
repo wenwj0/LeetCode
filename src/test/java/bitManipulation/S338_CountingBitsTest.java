@@ -1,5 +1,6 @@
 package bitManipulation;
 
+import dynamicProgramming.S338_CountingBits;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

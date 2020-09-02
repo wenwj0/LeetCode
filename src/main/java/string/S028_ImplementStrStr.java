@@ -1,4 +1,4 @@
-package java.byOrder;
+package string;
 
 public class S028_ImplementStrStr {
     public int strStr(String haystack, String needle) {

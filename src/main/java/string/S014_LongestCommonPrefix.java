@@ -1,4 +1,4 @@
-package java.byOrder;
+package string;
 
 public class S014_LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {

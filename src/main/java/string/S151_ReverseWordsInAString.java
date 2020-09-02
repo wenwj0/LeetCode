@@ -1,10 +1,53 @@
-package java.string.P151反转字符串里的单词;
+package string;
 
 import java.util.ArrayList;
 
-public class P151 {
+public class S151_ReverseWordsInAString {
 
 	public String reverseWords(String s) {
+		if(s==null || s.length()==0)
+			return s;
+		String[] strs = s.trim().split(" ");
+		StringBuilder sb = new StringBuilder("");
+		for(int i=strs.length-1;i>=0;i--){
+			if("".equals(strs[i]))
+				continue;
+			sb.append(strs[i]);
+			sb.append(" ");
+		}
+		return sb.toString().trim();
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	public String reverseWords0(String s) {
 		String[] strings1 = s.split(" ");
 		ArrayList<String> strings = new ArrayList<>();
 		for (String item : strings1) {
