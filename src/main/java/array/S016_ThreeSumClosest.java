@@ -1,4 +1,4 @@
-package java.byOrder;
+package array;
 
 import java.util.Arrays;
 
@@ -27,15 +27,41 @@ public class S016_ThreeSumClosest {
                         t0--;
                     third = t0;
                 } else {
-                    int s0 = second+1;
-                    while(s0 < third && nums[s0]==nums[second])
+                    int s0 = second + 1;
+                    while (s0 < third && nums[s0] == nums[second])
                         s0++;
                     second = s0;
                 }
             }
         }
         return best;
-}
+    }
+    public int threeSumClosest1(int[] nums, int target) {
+        if (nums.length == 3)
+            return nums[0] + nums[1] + nums[2];
+        Arrays.sort(nums);
+        int tempSum = nums[0] + nums[1] + nums[2];
+        int del = Math.abs(tempSum-target);
+        int result = tempSum;
+        for (int i = 0; i < nums.length - 2; i++) {
+            int left = i + 1, right = nums.length - 1;
+            while (left < right) {
+                tempSum = nums[i] + nums[left] + nums[right];
+                int tempDel = Math.abs(tempSum-target);
+                if (tempDel < del) {
+                    del = tempDel;
+                    result = tempSum;
+                }
+                if(result == target)
+                    return result;
+                else if(tempSum<target)
+                    left++;
+                else
+                    right--;
+            }
+        }
+        return result;
+    }
 
     public static void main(String[] args) {
 //        int[] nums = new int[]{-1,2,1,-4};
