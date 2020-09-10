@@ -1,6 +1,6 @@
-package java.array.P066加一;
+package array;
 
-public class P66 {
+public class S066_PlusOne {
     public int[] plusOne(int[] digits) {
         int len = digits.length;
         for(int i=len-1;i>=0;i--) {
