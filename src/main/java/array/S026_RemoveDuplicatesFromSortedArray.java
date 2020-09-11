@@ -1,4 +1,4 @@
-package java.byOrder;
+package array;
 
 public class S026_RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
