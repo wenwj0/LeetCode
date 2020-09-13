@@ -1,4 +1,4 @@
-package byOrder;
+package linkedList;
 
 import linkedList.ListNode;
 
