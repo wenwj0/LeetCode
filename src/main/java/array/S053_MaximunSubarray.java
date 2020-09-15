@@ -1,8 +1,6 @@
-package java.array.P053最大子序和;
+package array;
 
-import array.Interval;
-
-public class P53 {
+public class S053_MaximunSubarray {
 	public int maxSubArray(int[] nums) {
 		int len = nums.length;
 		int maxn = nums[0];
