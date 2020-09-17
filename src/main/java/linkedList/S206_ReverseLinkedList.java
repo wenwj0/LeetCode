@@ -1,8 +1,8 @@
-package linkedList.P206反转链表;
+package linkedList;
 
 import linkedList.ListNode;
 
-public class P206 {
+public class S206_ReverseLinkedList {
 	public ListNode reverseList(ListNode head) {
 		if(head==null||head.next==null)
 			return head;

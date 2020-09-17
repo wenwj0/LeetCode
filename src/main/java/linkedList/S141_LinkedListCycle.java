@@ -1,8 +1,8 @@
-package linkedList.P141环形链表;
+package linkedList;
 
 import linkedList.ListNode;
 
-public class P141 {
+public class S141_LinkedListCycle {
 	public boolean hasCycle(ListNode head) {
         if(head == null || head.next == null)
             return false;

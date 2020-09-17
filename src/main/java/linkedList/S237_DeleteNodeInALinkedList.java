@@ -1,8 +1,8 @@
-package linkedList.P237删除链表中的节点;
+package linkedList;
 
 import linkedList.ListNode;
 
-public class P237 {
+public class S237_DeleteNodeInALinkedList {
 	public void deleteNode(ListNode node) {
 		ListNode p = node;
 		while(p.next.next!=null) {

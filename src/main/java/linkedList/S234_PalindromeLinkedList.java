@@ -1,8 +1,8 @@
-package linkedList.P234回文链表;
+package linkedList;
 
 import linkedList.ListNode;
 
-public class P234 {
+public class S234_PalindromeLinkedList {
 	public boolean isPalindrome(ListNode head) {
 		if(head==null||head.next==null)
 			return true;
@@ -21,7 +21,6 @@ public class P234 {
 			temp = temp.next;
 		}
 		ListNode pre = pNode;
-//		pNode = pNode.next;
 		pre.next = null;
 		ListNode p = temp;
 		while(temp!=null) {
@@ -31,7 +30,6 @@ public class P234 {
 			p = temp;
 		}
 		temp = head;
-//		pNode.next = null;
 		p = pre.next;
 		while(temp!=pNode.next&&p!=null) {
 			if(p.val!=temp.val)
