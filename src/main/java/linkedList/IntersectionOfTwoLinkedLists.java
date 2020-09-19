@@ -1,8 +1,18 @@
-package linkedList.P160相交链表;
+package linkedList;
 
 import linkedList.ListNode;
 
-public class P160 {
+public class IntersectionOfTwoLinkedLists {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        ListNode p1 = headA;
+        ListNode p2 = headB;
+        while (p1 !=p2 ) {
+            p1 = p1.next==null?headB:p1.next;
+            p2 = p2.next==null?headA:p2.next;
+        }
+        return p1;
+    }
+
     public ListNode getIntersectionNode0(ListNode headA, ListNode headB) {
         ListNode p1 = headA, p2 = headB;
         int cnt1 = 0, cnt2 = 0;

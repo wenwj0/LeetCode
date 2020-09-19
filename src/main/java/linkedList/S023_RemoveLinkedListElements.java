@@ -1,10 +1,28 @@
-package linkedList.P203移除链表的元素;
+package linkedList;
 
 
 import linkedList.ListNode;
 
-public class P203 {
+public class S023_RemoveLinkedListElements {
 	public ListNode removeElements(ListNode head, int val) {
+		while(head!=null && head.val == val){
+			head = head.next;
+		}
+		if(head==null)
+			return head;
+		ListNode pre = head;
+		ListNode p = head.next;
+		while(p!=null){
+			if(p.val==val){
+				pre.next = p.next;
+			}else {
+				pre = pre.next;
+			}
+				p = p.next;
+		}
+		return head;
+	}
+	public ListNode removeElements0(ListNode head, int val) {
 		if(head==null)
 			return head;
 		if(head.next==null) {
