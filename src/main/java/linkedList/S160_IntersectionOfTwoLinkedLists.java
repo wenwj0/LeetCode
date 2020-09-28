@@ -2,7 +2,7 @@ package linkedList;
 
 import linkedList.ListNode;
 
-public class IntersectionOfTwoLinkedLists {
+public class S160_IntersectionOfTwoLinkedLists {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode p1 = headA;
         ListNode p2 = headB;
