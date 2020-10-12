@@ -1,6 +1,6 @@
-package java.array.P832翻转图像;
+package array;
 
-public class P832 {
+public class S832_FlippingAnImage {
     public int[][] flipAndInvertImage(int[][] A) {
         int len = A.length;
         for(int i=0;i<len;i++) {
@@ -24,10 +24,7 @@ public class P832 {
     }
     int[] reverse(int[] C) {
     	for(int i=0;i<C.length;i++) {
-    		if(C[i]==0)
-    			C[i]=1;
-    		else
-    			C[i]=0;
+    		C[i] = C[i] & 0;
     	}
     	return C;
     }

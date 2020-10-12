@@ -1,6 +1,8 @@
-package java.array.P088合拼两个有序数组;
+package array;
 
-public class P88 {
+import java.util.Arrays;
+
+public class S088_MergeSortedArray {
 	public void merge(int[] nums1, int m, int[] nums2, int n) {
 		if(m==0) {
 			for(int i=0;i<n;i++) {
@@ -23,5 +25,12 @@ public class P88 {
 		while(i>=0) {
 			nums1[k--] = nums1[i--];
 		}
+	}
+	public void merge1(int[] nums1, int m, int[] nums2, int n) {
+		int j = 0;
+		for(int i=m;i<m+n;i++) {
+			nums1[i] = nums2[j++];
+		}
+		Arrays.sort(nums1);
 	}
 }

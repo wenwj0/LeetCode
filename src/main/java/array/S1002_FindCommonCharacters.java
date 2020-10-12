@@ -1,9 +1,9 @@
-package java.array;
+package array;
 
 import java.util.LinkedList;
 import java.util.List;
 
-public class P1002 {
+public class S1002_FindCommonCharacters {
     public static List<String> commonChars(String[] A) {
         List<String> list = new LinkedList<>();
         char[][] charArray = new char[A.length][26];

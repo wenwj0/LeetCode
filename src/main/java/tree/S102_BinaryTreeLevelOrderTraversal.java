@@ -1,11 +1,13 @@
 package tree;
 
+import linkedList.ListNode;
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class P102 {
-	public List<List<Integer>> levelOrder(TreeNode root) {
+public class S102_BinaryTreeLevelOrderTraversal {
+	public List<List<Integer>> levelOrder0(TreeNode root) {
 		List<List<Integer>> res = new LinkedList<>();
 		if(root==null)
 			return res;

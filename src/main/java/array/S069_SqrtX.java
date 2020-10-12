@@ -1,6 +1,6 @@
-package java.array.P069x的平方根;
+package array;
 
-public class P69 {
+public class S069_SqrtX {
 	public int mySqrt(int x) {
 		int left = 1;
 		int right = x;
