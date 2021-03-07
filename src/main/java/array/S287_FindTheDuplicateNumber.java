@@ -1,6 +1,6 @@
-package java.array.P287寻找重复的数字;
+package array;
 
-public class P287 {
+public class S287_FindTheDuplicateNumber {
 	public int findDiplicate(int[] nums) {
 		int left=1,right = nums.length;
 		while (left<=right) {
