@@ -48,4 +48,29 @@ public class S067_AddBinary {
         }
         return c.reverse().toString();
     }
+    public String addBinary2(String a, String b) {
+        char[] charA = a.toCharArray();
+        char[] charB = b.toCharArray();
+        int lenA = charA.length-1;
+        int lenB = charB.length-1;
+        int tmp = 0;
+        StringBuilder sb = new StringBuilder();
+        while(lenA>=0 || lenB>=0){
+            int numA = lenA>=0?charA[lenA]-'0':0;
+            int numB = lenB>=0?charB[lenB]-'0':0;
+            int res = numA + numB + tmp;
+            tmp = res / 2;
+            sb.append(res%2);
+            lenA--;
+            lenB--;
+        }
+        if(tmp!=0)
+            sb.append(tmp);
+        return sb.reverse().toString();
+    }
+
+    public static void main(String[] args) {
+        S067_AddBinary s067_addBinary = new S067_AddBinary();
+        System.out.println(s067_addBinary.addBinary2("11","1"));
+    }
 }
