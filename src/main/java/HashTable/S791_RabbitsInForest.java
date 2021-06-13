@@ -1,4 +1,4 @@
-package HashTable.P500键盘行;
+package HashTable;
 
 import java.util.Arrays;
 

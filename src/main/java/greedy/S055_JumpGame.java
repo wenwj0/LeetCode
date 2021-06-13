@@ -1,9 +1,9 @@
-package array;
+package greedy;
 
 public class S055_JumpGame {
     public static void main(String[] args) {
         S055_JumpGame s055_jumpGame = new S055_JumpGame();
-        System.out.println(s055_jumpGame.canJump(new int[]{0}));
+        System.out.println(s055_jumpGame.canJump(new int[]{2,3,1,1,4}));
     }
 
     public boolean canJump(int[] nums) {
