@@ -3,7 +3,7 @@ package linkedList;
 
 import linkedList.ListNode;
 
-public class S023_RemoveLinkedListElements {
+public class S203_RemoveLinkedListElements {
 	public ListNode removeElements(ListNode head, int val) {
 		while(head!=null && head.val == val){
 			head = head.next;
